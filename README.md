@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athulkrishna K S</h1>
-<h3 align="center">Frontend Developer | MCA Student | Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">ML developer | MCA Student | Tech Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=athulkrishna-10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,6 +13,22 @@
 - 💡 Passionate about Web Development, Python, and Exploring GenAI  
 - 🛠️ I work with: `HTML`, `CSS`, `JavaScript`, `Python`, `Django`, `Git`, and `Linux`  
 - 📬 Reach me: **athulkrishna25106@gmail.com**
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/athul-krishna-531a4b333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Athulkrishna-10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/vibemaniac__02" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -45,21 +61,7 @@
 
 ---
 
-### 🌍 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/athul-krishna-531a4b333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Athulkrishna-10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/vibemaniac__02" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🌐 Languages Known
 - English  
